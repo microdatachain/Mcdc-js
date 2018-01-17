@@ -30,4 +30,4 @@ console.log(window.mcdcJS)
 
 ## Usage
 
-Please reference the [mcdc http interface documents](https://github.com/sqfasd/mcdc_docs/blob/master/mcdc_http_interface.md)
+Please reference the [mcdc http interface documents]
