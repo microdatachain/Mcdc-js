@@ -1,3 +1,6 @@
+/**
+ * @tip exports module
+ */
 module.exports = {
 	crypto : require("./lib/transactions/crypto.js"),
 	dapp: require("./lib/transactions/dapp.js"),
